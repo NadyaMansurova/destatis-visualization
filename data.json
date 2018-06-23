@@ -1,5 +1,4 @@
 {
-    "header": "Alter der Mutter",
     "meta": {
         "0": "insgesamt",
         "1": "1. Kind",
@@ -7,6 +6,7 @@
         "3": "3. Kind",
         "4": "4. und weiteres Kind"
     },
+    "header": "Alter der Mutter",
     "grid": {
         "0": {
             "data": {
